@@ -1,15 +1,15 @@
 ##CLAASES AND IMAGES LIST
 
-nbrproject
+1. nbrproject
 
-src/natashafinal
-
-
-README.md
-
-build.xml
-
-manifest.mf
+2. src/natashafinal
 
 
-operation buttons (+, -, /, *) ,answer button and clear button
+3. README.md
+
+4. build.xml
+
+5. manifest.mf
+
+
+6. operation buttons (+, -, /, *) ,answer button and clear button
