@@ -13,5 +13,9 @@
 
 
 6. operation buttons (+, -, /, *) ,answer button and clear button
+
+7. Wireframe png
+
+8. Screenshot jpg
  
 
