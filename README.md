@@ -14,4 +14,4 @@
 
 6. operation buttons (+, -, /, *) ,answer button and clear button
  
-![wireframe](wirframe.png)
+
